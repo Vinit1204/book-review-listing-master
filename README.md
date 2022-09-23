@@ -4,6 +4,8 @@ The purpose of this exercise is to test your familiarity with Java/Kotlin full-s
 
 This is a server side application for Book Listing developed in springboot.
 
+Command to start application (mvn spring-boot:run) Prerequisite (Maven installed on your machine)
+
 once you start the application it runs on default port : 8080 
 
 Different apis 
